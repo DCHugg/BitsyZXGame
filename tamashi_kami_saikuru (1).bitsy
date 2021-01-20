@@ -1,0 +1,444 @@
+Tamashi Kami Saikuru
+
+# BITSY VERSION 7.2
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME blueprint
+0,0,0
+255,248,244
+235,255,249
+
+PAL 1
+4,4,4
+255,250,1
+255,251,9
+
+PAL 2
+0,0,0
+255,4,4
+255,15,5
+
+PAL 3
+181,0,255
+0,255,102
+187,161,255
+
+ROOM 1
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,a,a,a,a,a,a,a,a,a,a,a,a,0,a
+a,0,0,a,a,a,a,a,a,a,a,a,a,0,0,a
+a,0,0,0,a,a,a,a,a,a,a,a,0,0,0,a
+a,0,0,0,0,a,a,a,a,a,a,0,0,0,0,a
+a,0,0,0,0,0,a,a,a,a,0,0,0,0,0,a
+a,0,0,0,0,0,0,a,a,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,m,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,a,a,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,0,0,0,a,a,a,a,a,a,a
+a,0,0,0,0,0,a,0,a,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,0,a,a,a,a,a,a,a,a
+ITM 2 7,9
+EXT 7,15 2 7,0 FX tunnel
+PAL 0
+
+ROOM 2
+a,a,a,a,a,a,a,0,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,a,0,a,0,0,0,0,0,0,a
+a,0,0,0,0,a,a,0,a,a,0,0,0,0,0,a
+a,0,0,0,a,0,0,0,0,0,a,0,0,0,0,a
+a,0,0,a,0,0,0,0,0,0,0,a,0,0,0,a
+a,0,a,0,0,0,0,0,0,0,0,0,a,0,0,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,a,a,a
+h,h,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,a,a,a
+a,0,a,0,0,0,0,0,0,0,0,0,a,0,0,a
+a,0,0,a,0,0,0,0,0,0,0,a,0,0,0,a
+a,0,0,0,a,0,0,0,0,0,a,0,0,0,0,a
+a,0,0,0,0,a,0,0,0,a,0,0,0,0,0,a
+a,0,0,0,0,0,a,0,a,0,0,0,0,0,0,a
+a,0,0,0,0,0,a,0,a,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,0,a,a,a,a,a,a,a,a
+EXT 7,0 1 7,15 FX tunnel
+EXT 15,7 3 0,7 FX tunnel
+EXT 7,15 6 7,0 FX fade_b DLG 9
+PAL 0
+
+ROOM 3
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,a,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,a,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,a,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,a,c,c,c,c,c,c,c,c,c,c,c,c
+a,a,a,a,b,b,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,a,d,d,d,d,d,d,d,d,d,d,d,d
+a,a,a,a,e,e,e,e,e,e,e,e,e,e,e,e
+a,a,a,a,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,a,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXT 0,7 2 15,7 FX tunnel
+EXT 15,7 4 0,7
+PAL 0
+
+ROOM 4
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXT 0,7 3 15,7
+EXT 15,7 5 0,7
+PAL 1
+
+ROOM 5
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,g
+0,0,0,0,0,0,0,0,0,0,l,j,k,0,g,g
+0,0,0,0,0,0,0,0,0,i,i,0,k,g,g,g
+0,0,0,0,0,0,0,0,i,i,0,0,g,g,g,g
+0,0,0,0,0,0,0,i,i,0,0,g,g,g,g,g
+c,c,c,c,c,c,i,i,0,0,0,g,g,g,g,g
+b,b,b,b,b,b,l,0,0,0,0,g,g,g,g,g
+0,0,0,0,0,0,0,0,0,0,0,a,0,0,0,0
+d,d,d,d,d,d,d,d,d,h,h,h,h,h,h,h
+e,e,e,e,e,e,e,e,e,0,0,h,h,h,h,h
+0,0,0,0,0,0,0,0,0,0,0,0,h,h,h,h
+0,0,0,0,0,0,0,0,0,0,0,0,0,h,h,h
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,h,h
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,h
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,h
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,h
+EXT 0,7 4 15,7
+PAL 1
+
+ROOM 6
+0,a,g,g,g,g,a,0,a,h,h,h,h,a,0,0
+0,a,g,g,g,g,a,0,a,h,h,h,h,a,0,0
+0,a,g,g,g,g,a,0,a,h,h,h,h,a,0,0
+0,a,g,g,g,g,a,0,a,h,h,h,h,a,0,0
+0,a,g,g,g,g,a,0,a,h,h,h,h,a,0,0
+0,a,g,g,g,g,a,0,a,h,h,h,h,a,0,0
+0,a,g,g,g,g,a,0,a,h,h,h,h,a,0,0
+0,0,a,a,a,a,0,0,0,a,a,a,a,0,0,0
+0,0,0,0,0,a,0,0,0,a,0,0,0,0,0,0
+0,0,0,0,0,a,0,0,0,a,0,0,0,0,0,0
+0,0,0,0,0,a,0,0,0,a,0,0,0,0,0,0
+0,0,0,0,0,a,0,0,0,a,0,0,0,0,0,0
+0,0,0,0,0,a,0,0,0,a,0,0,0,0,0,0
+0,0,0,0,0,a,0,0,0,a,0,0,0,0,0,0
+0,0,0,0,0,0,a,m,a,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,a,0,0,0,0,0,0,0,0
+EXT 7,0 2 7,15 FX fade_b DLG 8
+END 7 7,13
+PAL 2
+
+TIL a
+11111111
+10000001
+10100101
+10011001
+10011001
+10100101
+10000001
+11111111
+>
+11111111
+10000001
+10100101
+10011001
+10011001
+10100101
+10000001
+11111111
+NAME block
+WAL true
+
+TIL b
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+11111111
+WAL true
+
+TIL c
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+WAL true
+
+TIL d
+11111111
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+WAL true
+
+TIL e
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL g
+11011011
+00000000
+10111101
+10000001
+00100100
+10101101
+10000100
+10110101
+WAL true
+
+TIL h
+11111011
+00000000
+10101101
+10000001
+00100100
+10100101
+00000100
+10010101
+WAL true
+
+TIL i
+00000001
+00000010
+00001100
+00010000
+00010000
+00100000
+01000000
+10000000
+WAL true
+
+TIL j
+00001000
+00011110
+00111110
+11011110
+00001000
+00010100
+00100010
+11000001
+WAL true
+
+TIL k
+11110000
+00011000
+00001000
+00000110
+00000011
+00000001
+00000001
+00000001
+WAL true
+
+TIL l
+00000000
+00000000
+00001111
+00010000
+00010000
+00100000
+01000000
+10000000
+WAL true
+
+TIL m
+00111100
+01000010
+10000001
+10000001
+10000001
+01000010
+00111100
+00000000
+
+SPR A
+00000000
+00011000
+00011000
+00111100
+01011010
+00011000
+00100100
+01100110
+>
+00011000
+00011000
+00111100
+01011010
+00011000
+00111100
+00100100
+01100110
+POS 2 2,7
+
+SPR b
+00010000
+00010000
+00010000
+00111000
+01010100
+00010000
+00101000
+01101100
+>
+00000000
+00010000
+00010000
+00010000
+00111000
+01010100
+00111000
+01101100
+DLG 4
+POS 5 9,7
+
+SPR e
+10000001
+10011001
+01011010
+01011010
+01111110
+00011000
+01111110
+10011001
+>
+00011000
+00011000
+01011010
+01011010
+01111110
+00011000
+01111110
+10011001
+DLG 6
+POS 2 7,7
+
+SPR f
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+ITM 2
+00000000
+00010000
+01010100
+01101100
+11111110
+01101100
+01010100
+00111000
+NAME Soul 2
+DLG 5
+
+DLG 4
+"""
+I am the yellow Guardian. Bring me my Soul if you are to escape this hellish landscape, don't believe that totem.. His truth isn't {shk}human... {shk}What will you do...{shk} Usurper{shk}? {
+  - {item "2"} == 1 ?
+    I shall give him the soul... The warmth of yellow sun rays upon the sea of wheat brings me a sense of.... {shk}Home?{shk}
+  - else ?
+    I must find the soul in the throne room.. It's my rightful bounty after the {shk}war{shk}..
+}
+{property locked true}
+"""
+NAME sprite b dialog
+
+DLG 5
+"""
+I've found the {shk}soul{shk}. Tis, a sight to see right into the infinity... Now to chose whom to give my {shk}cursed gift{shk} to...
+{item "2" {{item "2"} + 1}}
+{property locked false}
+"""
+NAME Soul 2 dialog
+
+DLG 6
+"""
+Bring me the {shk}souls{shk} of my descendants.. They no  longer deserve them.... But.. {shk}You{shk}.... You do my young {shk}Usurper{shk}...
+{pg}
+You've won the war.. Let end the cycle..... {shk}Together{shk}...{
+  - {item "Soul 2"} == 1 ?
+    Thank you my Usurper.. Now enter the portal below.. Your {shk}throne{shk} awaits..
+  - else ?
+    Make your decision.. {shk}Usurper{shk}...
+}
+{property locked false}
+"""
+NAME sprite e dialog
+
+DLG 7
+"""
+I hope the being you chose to give the will of humanity.......... uses it wisely {shk}Usurper{shk}...You've fought to become {shk}god {shk}and lost your humanity.. The price of becoming god is one you pay..... by watching the cycle of {shk}loss {shk}and gain {shk}repeat{shk} itself......
+{pg}
+Unless.... You committed the {shk}eternal Taboo.....{shk} 
+{end}
+"""
+NAME ending 1
+
+DLG 8
+"""
+You've ascended my{shk} lord{shk}...
+
+"""
+NAME exit narration 1
+
+DLG 9
+"""
+{
+  - {item "Soul 2"} == 0 ?
+    {property locked true}
+    I need to choose...
+  - else ?
+    {property locked false}
+    Ive Made my choice....
+}
+"""
+NAME locked exit 1
+
+VAR a
+42
+
